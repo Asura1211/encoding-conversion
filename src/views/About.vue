@@ -22,7 +22,7 @@
         <el-col :span="8">
           <el-input
             v-model="picBase64"
-            placeholder="请输入您想转化的图片 base64 编码"
+            placeholder="获取对应图片base64编码"
             type="textarea"
             rows="5"
             id="input"
